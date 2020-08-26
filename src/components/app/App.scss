@@ -1,0 +1,7 @@
+$color : #ece; 
+
+@import "~bootstrap/scss/bootstrap";
+.heading {
+    color: $color;
+    background-color: blue;
+}
